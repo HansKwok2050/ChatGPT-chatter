@@ -1,0 +1,17 @@
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\OpenAI Chatter.exe
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\OpenAI Chatter.deps.json
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\OpenAI Chatter.runtimeconfig.json
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\OpenAI Chatter.dll
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\OpenAI Chatter.pdb
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.csproj.AssemblyReference.cache
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.AssemblyInfoInputs.cache
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.AssemblyInfo.cs
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.csproj.CoreCompileInputs.cache
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI C.9C084291.Up2Date
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.dll
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\refint\OpenAI Chatter.dll
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.pdb
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\OpenAI Chatter.genruntimeconfig.cache
+C:\Users\Norfeder\Desktop\C# openai chatter\OpenAI Chatter\obj\Debug\net8.0\ref\OpenAI Chatter.dll
